@@ -137,5 +137,4 @@ markup:
     # style: monokai
 services:
   googleAnalytics:
-    id: G-TELNTQ9VJL
-    
+    #id: G-TELNTQ9VJL
