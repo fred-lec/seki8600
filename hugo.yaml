@@ -98,7 +98,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/fred-lec/seki8600.git/content"
+    URL: "https://github.com/fred-lec/seki8600/blob/main/content"
     Text: "Bewerk pagina" # edit text
     appendFilePath: true # to append file path to Edit link
 
