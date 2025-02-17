@@ -2,6 +2,8 @@ baseURL: "https://seki.8600.it/"
 title: Seki 8600
 pagerSize: 5
 theme: PaperMod
+defaultContentLanguage: nl
+
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -17,8 +19,8 @@ params:
   title: Seki 8600
   description: "Go club in Diksmuide"
   keywords: [Go, Baduk, Weiqi, club, Diksmuide, denksport, bordspel, go club]
-  author: Frederic Leclercq
-  # author: ["Me", "You"] # multiple authors
+  author: Fred
+  #author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -37,8 +39,8 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
-  tocopen: false
+  showtoc: true
+  tocopen: true
 
   assets:
     disableHLJS: true # to disable highlight.js
@@ -58,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Seki 8600
-    subtitle: "Go club in Diksmuide - binnenkort online"
+    subtitle: "Go club in Diksmuide"
     imageUrl: "gostones.jpg"
     imageWidth: 350
     imageHeight: 350
@@ -97,7 +99,7 @@ params:
 
   editPost:
     URL: "https://github.com/fred-lec/seki8600.git/content"
-    Text: "Suggest Changes" # edit text
+    Text: "Bewerk pagina" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
@@ -113,18 +115,22 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    #- identifier: categories
-    #  name: categories
-    #  url: /categories/
-    #  weight: 10
-    #- identifier: tags
-    #  name: tags
-    #  url: /tags/
-    #  weight: 20
-    #- identifier: example
-    - name: "Join de WhatsApp groep!"
-      url: https://chat.whatsapp.com/FzBPEuJdz4CIpmLCy3aq7b
+    - identifier: club
+      name: Club
+      url: /club/
+      weight: 10
+    - identifier: nieuws
+      name: Nieuws
+      url: /posts/
+      weight: 20
+    - identifier: links
+      name: Links
+      url: /links/
       weight: 30
+    #- identifier: whatsapp
+    #  name: "Join de WhatsApp groep!"
+    #  url: https://chat.whatsapp.com/FzBPEuJdz4CIpmLCy3aq7b
+    #  weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
