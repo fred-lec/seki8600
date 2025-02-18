@@ -14,12 +14,12 @@ Diksmuide heeft er een vereniging bij: *een Go-club!*\
 Met de oprichting van **Seki 8600** krijgt de Westhoek eindelijk een vaste ontmoetingsplek voor liefhebbers van het eeuwenoude strategische bordspel Go. Tot nu toe moesten spelers uit de regio zich verplaatsen naar Oost-Vlaanderen of andere provincies om fysiek te spelen. Daar brengt deze nieuwe club verandering in. We zijn trots om naast de gevestigde clubs in Antwerpen, Brussel, Gent, Leuven, Luik, Namen en Sint-Niklaas nu ook een ontmoetingsplaats in West-Vlaanderen te hebben.
 
 ## Wat is Go?
-Go is een van de oudste bordspellen ter wereld en vindt zijn oorsprong in China, meer dan 2500 jaar geleden. Het spel draait om strategie, waarbij twee spelers afwisselend zwarte en witte stenen plaatsen op een 19x19-raster. Het doel is om zoveel mogelijk territorium te veroveren, terwijl je tegelijkertijd de plannen van je tegenstander dwarsboomt. Ondanks de eenvoudige regels kent Go een enorme diepgang en complexiteit, waardoor het zowel toegankelijk is voor beginners en een uitdaging blijft voor gevorderden.
+Go is een van de oudste bordspellen ter wereld en vindt zijn oorsprong in China, meer dan 2500 jaar geleden. Het spel draait om strategie, waarbij twee spelers afwisselend zwarte en witte stenen plaatsen op een 19x19-raster. Het doel is om zoveel mogelijk territorium te veroveren, terwijl je tegelijkertijd de plannen van je tegenstander dwarsboomt. Ondanks de eenvoudige regels kent Go een enorme diepgang en complexiteit, waardoor het zowel toegankelijk is voor beginners als een uitdaging blijft voor gevorderden.
 
 ## Waarom een Go-club in Diksmuide?
 Hoewel online Go een uitstekende manier is om te oefenen, ervaren veel spelers dat niets opweegt tegen het spelen op een fysiek bord. De tastbare ervaring van de stenen, de interactie met medespelers en de mogelijkheid om partijen direct te bespreken, zorgen voor een verrijkende leeromgeving. Seki 8600 wil een gastvrije plek zijn waar zowel beginners als ervaren spelers samenkomen om te spelen, te leren en plezier te maken.
 
-## Bijeenkomsten en Activiteiten
+## Bijeenkomsten en activiteiten
 Seki 8600 organiseert voorlopig **één bijeenkomst per maand**. Tijdens deze avonden spelen we partijen, analyseren we strategieën en maken we tijd voor fijne babbels. Afhankelijk van de interesse kunnen deze bijeenkomsten frequenter worden georganiseerd, en mogelijk moeten we uitkijken naar een ruimere, publieke locatie, want nu spelen we op een privé locatie.
 
 
