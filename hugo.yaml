@@ -65,11 +65,12 @@ params:
     imageWidth: 350
     imageHeight: 350
     imageTitle: "Go Club"
-    #buttons:
-    #  - name: Posts
-    #    url: posts
-    #  - name: Tags
-    #    url: tags
+    buttons:
+      - name: Over de club
+        url: club
+      - name: Nieuws
+        url: posts
+      
 
   # home-info mode
   homeInfoParams:
