@@ -25,3 +25,9 @@ ShowWordCount: false
 - [Amerikaanse Go Associatie](https://www.usgo.org/) - De belangrijkste Go-associatie in de VS.
 - [Go Discussies op Reddit](https://www.reddit.com/r/baduk/) - Een gemeenschap voor Go-discussies.
 - [Life in 19x19](https://lifein19x19.com/) - Een Go-forum met strategieën en reviews.
+
+## Belgische Go Clubs
+- [Goclub Antwerpen](https://www.goclubantwerpen.be/) - Antwerpen
+- [Phenix GO Club](https://bruxellesgoclubphenix.wordpress.com/) - Brussel
+- [Gents Go Genootschap](http://www.gentgo.be/) - Gent
+- [Go Club Leuven](http://www.goclubleuven.be/) - Leuven
