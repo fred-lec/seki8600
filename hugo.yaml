@@ -3,7 +3,7 @@ title: Seki 8600
 pagerSize: 5
 theme: PaperMod
 defaultContentLanguage: nl
-
+enableGitInfo: true
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -19,8 +19,7 @@ params:
   title: Seki 8600
   description: "Go club in Diksmuide"
   keywords: [Go, Baduk, Weiqi, club, Diksmuide, denksport, bordspel, go club]
-  author: Fred
-  #author: ["Me", "You"] # multiple authors
+  author: Fred  
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -70,6 +69,8 @@ params:
         url: club
       - name: Nieuws
         url: posts
+      - name: Blog
+        url: blog
       
 
   # home-info mode
@@ -124,14 +125,14 @@ menu:
       name: Nieuws
       url: /posts/
       weight: 20
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 25
     - identifier: links
       name: Links
       url: /links/
-      weight: 30
-    #- identifier: whatsapp
-    #  name: "Join de WhatsApp groep!"
-    #  url: https://chat.whatsapp.com/FzBPEuJdz4CIpmLCy3aq7b
-    #  weight: 40
+      weight: 30    
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

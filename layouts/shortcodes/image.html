@@ -1,0 +1,11 @@
+{{ $img := .Page.Resources.GetMatch (.Get 0) }}
+{{ $resized := $img.Resize "720x webp" }}
+
+{{ if eq (.Page.Scratch.Get "imageCounter") nil }}
+    {{ .Page.Scratch.Set "imageCounter" 1 }}
+{{ else }}
+    {{ .Page.Scratch.Add "imageCounter" 1 }}
+{{ end }}
+
+<img src="{{ $resized.RelPermalink }}" alt="{{ .Get 1 }}">
+<figcaption>Afbeelding  {{ .Page.Scratch.Get "imageCounter" }}: {{ .Get 1 }}</figcaption>
