@@ -20,7 +20,7 @@ params:
   description: "Go club in Diksmuide"
   keywords: [Go, Baduk, Weiqi, club, Diksmuide, denksport, bordspel, go club]
   author: Fred  
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["https://seki.8600.it/assets/gostones.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
