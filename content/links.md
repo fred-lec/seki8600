@@ -14,10 +14,11 @@ ShowWordCount: false
 
 ## Online Go Spelen
 - [OGS (Online Go Server)](https://online-go.com/) - Een van de beste plaatsen om Go te spelen met een moderne interface.
-- [AI Sensei](https://ai-sensei.com/) - AI-gestuurde Go-analyse en training.
 
 ## Go Hulpmiddelen & AI
 - [KataGo](https://github.com/lightvector/KataGo) - Een van de sterkste open-source AI Go-engines.
+- [ZBaduk](https://www.zbaduk.com/) - Online tool om Go partijen te analyseren, maakt gebruik van LeeLa Zero en KataGo.
+- [AI Sensei](https://ai-sensei.com/) - AI-gestuurde Go-analyse en training.
 
 ## Go Organisaties & Gemeenschappen
 - [Belgische Go Federatie](https://www.gofed.be/) - De Belgische Go federatie in België.
