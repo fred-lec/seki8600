@@ -43,6 +43,9 @@ Een alternatief is het gebruik van coördinaten, waarbij een zet wordt genoteerd
 ## 3. Digitale oplossingen
 Er bestaan digitale borden die automatisch zetten registreren. Dit is ideaal voor toernooien of studie, maar deze borden zijn vaak duur (snel €1000 of meer).  
 
+{{< image "foto_digitalboard.png" "Digitaal bord">}}
+
+
 Daarnaast zijn er apps en websites zoals **[OGS](https://online-go.com/) en [KGS](https://www.gokgs.com/)**, die handmatige invoer van partijen mogelijk maken. 
 
 **Voordelen:**  
