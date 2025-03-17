@@ -1,0 +1,14 @@
+
+ [
+ {{ range .Site.RegularPages }}
+ {{- if eq .Section "event" }}
+  {  
+  "title": "{{.Title}}",   
+  "start":  {{ with .Params.eventdatestart }}{{ time.AsTime . | time.Format "2006-01-02T15:04:05Z07:00" | jsonify }}{{ else }}null{{ end }},  
+  "end":  {{ with .Params.eventdateend }}{{ time.AsTime . | time.Format "2006-01-02T15:04:05Z07:00" | jsonify }}{{ else }}null{{ end }},  
+  "allDay": {{ .Params.allday | default false }},  
+  "url": {{ with .Params.more_info }}{{ . | jsonify }}{{ else }} "{{ .Permalink | absURL }}" {{ end }}
+  },
+{{ end }}
+{{ end }}
+]

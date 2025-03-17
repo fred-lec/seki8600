@@ -11,3 +11,12 @@ figcaption {
 body.dark figcaption  {
     color: var(--primary);
 }
+
+.fc table {
+    display: table;
+}
+
+h2.calendar {
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+}

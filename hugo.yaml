@@ -10,6 +10,11 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+outputs:
+  section: 
+    - json
+    - html 
+
 minify:
   disableXML: true
   minifyOutput: true

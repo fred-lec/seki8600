@@ -1,0 +1,21 @@
+{{ define "main" }}
+    <h1>{{ .Title }}</h1>
+    <h2 class="calendar">&nbsp;</h2>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        var calendarEl = document.getElementById('calendar');
+        var calendar = new FullCalendar.Calendar(calendarEl, {          
+          locale: 'nl',
+          buttonText: {
+            today: 'Vandaag',  
+          },
+          initialView: 'dayGridMonth',
+          height: "auto",
+          events: '{{ .Site.BaseURL }}/event/index.json'          
+        });
+        calendar.render();
+      });
+
+    </script>
+    <div id="calendar"></div>
+{{ end }}

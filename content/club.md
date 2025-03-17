@@ -12,12 +12,8 @@ Adres: 8600 Diksmuide (centrum), België
 
 ## Speeltijden
 **🕒 Maandelijkse bijeenkomsten, telkens op woensdag vanaf 19u30:**
-- 2 april 2025
-- 7 mei 2025
-- 4 juni 2025
-- 2 juli 2025
 
-- ... (meer data volgen)
+Zie: [agenda]({{< relref "/agenda/" >}})
 
 ## Extra Informatie
 - Iedereen is welkom, van absolute beginners tot gevorderde spelers! 🎉
