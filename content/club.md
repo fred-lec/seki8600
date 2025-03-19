@@ -24,7 +24,7 @@ Zie: [agenda]({{< relref "/agenda/" >}})
 ## Contact
 📧 **E-mail**: club_diksmuide@gofed.be\
 🌐 **Website**: [seki.8600.it](http://seki.8600.it)\
-📞 **WhatsApp**: [WhatsApp Groep](https://chat.whatsapp.com/FzBPEuJdz4CIpmLCy3aq7b)
-
+📞 **WhatsApp**: [WhatsApp Groep](https://chat.whatsapp.com/FzBPEuJdz4CIpmLCy3aq7b)\
+🗨️ **Discord**: [Seki 8600](https://discord.gg/gqpgpFZav3)
 
 Kom langs en speel een partijtje Go met ons! 😊
