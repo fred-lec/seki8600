@@ -71,11 +71,9 @@ params:
     imageTitle: "Go Club"
     buttons:
       - name: Over de club
-        url: club
-      - name: Nieuws
-        url: posts
-      - name: Blog
-        url: blog
+        url: club      
+      - name: Discord
+        url: https://discord.gg/gqpgpFZav3
       
 
   # home-info mode
