@@ -40,6 +40,8 @@ Please follow these steps to contribute:
 4. Push the changes to your fork.
 5. Open a pull request to the main repository.
 
+📌 Note: Please ensure that images do not exceed a maximum width of 1200 pixels.
+
 ## Questions or Help?
 
 If you have any questions or run into issues, feel free to reach out by opening an issue in the repository or contacting us directly.

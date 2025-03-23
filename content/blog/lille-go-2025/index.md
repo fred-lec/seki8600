@@ -21,7 +21,7 @@ De inschrijving voor dit toernooi verliep uiterst eenvoudig. Via [hun website](h
 
 Bovendien was het zelfs mogelijk om tegelijkertijd eten te bestellen, zodat je je geen zorgen hoeft te maken over een picknick tijdens de dag.
 
-Het volledig kostenplaatje voor de inschrijving was amper € 37, inclusief 3 maaltijden en het toernooi. Is dit wat ze in Vlaanderen een badje noemen? 🤔
+Het volledig kostenplaatje voor de inschrijving was amper € 37, inclusief 3 maaltijden en het toernooi. Is dit wat ze in Vlaanderen _een batje_ noemen? 🤔
 
 ## Reconnaissance
 Rond 11.30 uur arriveerde ik bij het Mairie de Quartier-centrum in Rijsel. Na mijn aanmelding stond ik te popelen om een kijkje te nemen naar de plek waar we zouden spelen.

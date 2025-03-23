@@ -24,6 +24,7 @@ ShowWordCount: false
 - [Belgische Go Federatie](https://www.gofed.be/) - De Belgische Go federatie in België.
 - [Europese Go Federatie](https://www.eurogofed.org/) - De belangrijkste organisatie voor Go in Europa.
 - [Amerikaanse Go Associatie](https://www.usgo.org/) - De belangrijkste Go-associatie in de VS.
+- [The International Go Federation](https://www.intergofed.org/) - De internationale go federatie.
 - [Go Discussies op Reddit](https://www.reddit.com/r/baduk/) - Een gemeenschap voor Go-discussies.
 - [Life in 19x19](https://lifein19x19.com/) - Een Go-forum met strategieën en reviews.
 
