@@ -19,6 +19,7 @@ ShowWordCount: false
 - [KataGo](https://github.com/lightvector/KataGo) - Een van de sterkste open-source AI Go-engines.
 - [ZBaduk](https://www.zbaduk.com/) - Online tool om Go partijen te analyseren, maakt gebruik van LeeLa Zero en KataGo.
 - [AI Sensei](https://ai-sensei.com/) - AI-gestuurde Go-analyse en training.
+- [Kifu Snap](https://www.crazy-sensei.com/?lang=en&location=kifu_snap) - Een tool om de score te berekenen op basis van een foto.
 
 ## Go Organisaties & Gemeenschappen
 - [Belgische Go Federatie](https://www.gofed.be/) - De Belgische Go federatie in België.
