@@ -47,7 +47,7 @@ Het was dus even afwachten en aanvoelen waar mijn sterkte precies ligt doorheen 
 ## De rondes van zaterdag: op verkenning
 {{< image "03_spelers.jpg" "een kamer vol gedachtes">}}
 
-Sommige mensen zitten te diep in het glas, maar hier zaten we te diep in het bord. Op tafel stond er water, koffie, Stella Artois ofwel een Monster Energy drink, het ging er heftig aan toe en we haalden alles naar boven om te proven van zoete overwinning.
+Sommige mensen zitten te diep in het glas, maar hier zaten we te diep in het bord. Op tafel stond er water, koffie, Stella Artois ofwel een Monster Energy drink, het ging er heftig aan toe en we haalden alles naar boven om te proeven van zoete overwinning.
 
 De zaterdag verliep vlekkeloos: alle partijen gewonnen! Al speelde de stevige handicap een heel grote rol. De zoektocht naar balans werd steeds duidelijker. 
 
