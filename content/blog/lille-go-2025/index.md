@@ -3,7 +3,7 @@ date: '2025-03-22T20:00:00+01:00'
 draft: false
 author: Kevin Durant
 title: 'Seki 8600 bezoekt het Lille Go Tournament 2025'
-tags: ["tournament", "lille", "wedstrijd"]
+tags: ["toernooi", "lille", "wedstrijd"]
 ---
 
 {{< image "01_lillego_header-min.jpg" "Rijsel Centrum, zaterdag 8 maart om 11 uur">}}
