@@ -3,8 +3,9 @@ date: '2025-03-17T20:49:26+01:00'
 draft: false
 title: 'Izis Board'
 tags: ["bord", "materiaal", "groepsaankoop"]
-categories: ["persbericht"]
 showtoc: false
+aliases:
+  - "/posts/izis_board/"
 ---
 
 # Groepsaankoop: Izis Digital Go Board

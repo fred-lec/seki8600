@@ -71,7 +71,9 @@ params:
     imageTitle: "Go Club"
     buttons:
       - name: Over de club
-        url: club      
+        url: club   
+      - name: Blog
+        url: blog      
       - name: Discord
         url: https://discord.gg/gqpgpFZav3
       
@@ -123,11 +125,7 @@ menu:
     - identifier: club
       name: Club
       url: /club/
-      weight: 10
-    - identifier: nieuws
-      name: Nieuws
-      url: /posts/
-      weight: 20
+      weight: 10    
     - identifier: blog
       name: Blog
       url: /blog/

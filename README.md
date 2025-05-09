@@ -16,7 +16,7 @@ This command will clone the repository and also ensure that all necessary submod
 
 Before you start working with the project, make sure you have Hugo installed on your system. Hugo is a fast and modern static site generator that we use for the project.
 
-To install Hugo (use the extended version), follow the instructions on the official Hugo documentation:
+To install Hugo (use the extended version), follow the instructions on the official Hugo documentation: (v.0.147 or newer is required.)
 
 [Install Hugo](https://gohugo.io/getting-started/installing/)
 

@@ -5,6 +5,8 @@ title: 'Nieuwe Go club in Diksmuide'
 tags: ["Diksmuide", "club"]
 categories: ["persbericht"]
 showtoc: false
+aliases:
+  - "/posts/nieuwe_club/"
 
 ---
 
