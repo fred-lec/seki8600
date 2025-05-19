@@ -15,11 +15,11 @@ Zin in een dag vol Go, zee en gezelligheid? Kom dan op zaterdag 12 juli naar Bre
 Of je nu een absolute beginner bent of al jaren speelt – iedereen is welkom. We maken er een leuke en ontspannen dag van, met een lichte educatieve toets zodat je er misschien ook nog iets van opsteekt. De precieze agenda wordt later nog gecommuniceerd 😊 (Maar hou alvast 12 juli vrij!)
 
 ## 📍 Praktisch
-Waar? Bredene – de exacte locatie wordt een week voor het evenement gecommuniceerd aan de geregistreerden
+**Waar?** Bredene – de exacte locatie wordt een week voor het evenement gecommuniceerd aan de geregistreerden
 
-Wanneer? Zaterdag 12 juli, van 14u tot 19u
+**Wanneer?** Zaterdag 12 juli, van 14u tot 19u
 
-Kostprijs? Helemaal gratis – maar registratie is verplicht: https://docs.google.com/forms/d/e/1FAIpQLSeM1w3twmQ0srkO7QYhBTRhcMGl39LJrLfK8MIxDBlhMqImbQ/viewform
+**Kostprijs?** Helemaal gratis – maar [registratie](https://docs.google.com/forms/d/e/1FAIpQLSeM1w3twmQ0srkO7QYhBTRhcMGl39LJrLfK8MIxDBlhMqImbQ/viewform) is verplicht.
 
  
 ## 🍽️ Samen eten?
