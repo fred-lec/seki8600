@@ -17,7 +17,7 @@ Zin in een dag vol Go, zee en gezelligheid? Kom dan op zaterdag 23 augustus naar
 Of je nu een absolute beginner bent of al jaren speelt – iedereen is welkom. We maken er een leuke en ontspannen dag van, met een lichte educatieve toets zodat je er misschien ook nog iets van opsteekt. 
 
 **Agenda**\
-**14.00 - 15.15**: Welkom\
+**14.00 - 14.15**: Welkom\
 **14.15 - 15.30**: Introductie go \
 **15.30 - xx.xx**: Blitz tornooi\
 **14.15 - 19.00**: (doorlopend) vrij spelen\
