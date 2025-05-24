@@ -4,6 +4,8 @@ draft: false
 title: 'Go @ Zee!'
 tags: ["Bredene", "club"]
 showtoc: false
+images:
+  - "/blog/go-aan-zee-2025/flyer-share.png"
 ---
 
 # Seki 8600 organiseert een go namiddag aan zee!
@@ -41,3 +43,5 @@ Geef op je registratie aan of je mee wil gaan eten, zodat we een idee hebben van
 Voor vragen of meer informatie kun je contact opnemen via [club_diksmuide@gofed.be](mailto:club_diksmuide@gofed.be) of via onze [Discord](https://discord.gg/gqpgpFZav3) server.
 
 We kijken ernaar uit om je te verwelkomen aan het Go-bord in Bredene! 🎉 
+
+{{< image "flyer.png" "Flyer 'Go aan zee' - ChatGPT heeft er een 15x16 board van gemaakt :)">}}
