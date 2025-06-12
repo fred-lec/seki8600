@@ -12,14 +12,14 @@ images:
 
 ## 🏖️ Go aan Zee – Zaterdag 23 augustus in Bredene
 
-Zin in een dag vol Go, zee en gezelligheid? Kom dan op zaterdag 23 augustus naar Bredene voor een uniek Go-evenement aan de Belgische kust! 🌊🏯
+Zin in een dag vol Go, zee en gezelligheid? Kom dan op zaterdag 23 augustus 2025 naar Bredene voor een uniek Go-evenement aan de Belgische kust! 🌊🏯
 
 Of je nu een absolute beginner bent of al jaren speelt – iedereen is welkom. We maken er een leuke en ontspannen dag van, met een lichte educatieve toets zodat je er misschien ook nog iets van opsteekt. 
 
 **Agenda**\
 **14.00 - 14.15**: Welkom\
 **14.15 - 15.30**: Introductie go \
-**15.30 - xx.xx**: Blitz tornooi\
+**15.30 - 18.00**: Blitz tornooi\
 **14.15 - 19.00**: (doorlopend) vrij spelen\
 **19.30 - xx.xx**: Uit eten (lokaal restaurant)
 
@@ -28,7 +28,7 @@ We geven een introductie tot Go voor iedereen die dit fantastische spel graag wi
 Het blitztoernooi (snelle partijen) staat open voor alle niveaus – iedereen is welkom!
 
 ## 📍 Praktisch
-**Waar?** Bredene – de exacte locatie wordt een week voor het evenement gecommuniceerd aan de geregistreerden
+**Waar?** Bredene – Camping Veld & Duin
 
 **Wanneer?** Zaterdag 23 augustus, van 14u tot 19u
 
@@ -36,7 +36,7 @@ Het blitztoernooi (snelle partijen) staat open voor alle niveaus – iedereen is
 
  
 ## 🍽️ Samen eten?
-'s Avonds trekken we met wie zin heeft naar een lokaal restaurantje in de buurt om samen iets te eten.
+'s Avonds trekken we met wie zin heeft naar een lokaal restaurantje in de buurt om samen iets te eten. (op eigen kosten)\
 Geef op je registratie aan of je mee wil gaan eten, zodat we een idee hebben van het aantal deelnemers. Dit is uiteraard geheel vrijblijvend, maar helpt ons in de praktische organisatie.
 
 
@@ -44,4 +44,4 @@ Voor vragen of meer informatie kun je contact opnemen via [club_diksmuide@gofed.
 
 We kijken ernaar uit om je te verwelkomen aan het Go-bord in Bredene! 🎉 
 
-{{< image "flyer.png" "Flyer 'Go aan zee' - ChatGPT heeft er een 15x16 board van gemaakt :)">}}
+{{< image "flyer.png" "Flyer 'Go aan zee' ">}}
