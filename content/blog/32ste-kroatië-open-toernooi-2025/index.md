@@ -1,7 +1,9 @@
 ---
 date: '2025-06-12T20:00:00+02:00'
 draft: false
+author: Kevin Durant
 title: 'Seki 8600 bezoekt het 32ste Kroatisch Open toernooi'
+tags: ["toernooi", "kroatië", "wedstrijd"]
 ---
 
 {{< image "01_porec.jpg" "Poreç op vrijdag 6 juni">}}
