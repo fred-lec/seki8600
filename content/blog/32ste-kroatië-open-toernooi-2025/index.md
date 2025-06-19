@@ -5,7 +5,7 @@ author: Kevin Durant
 title: 'Seki 8600 bezoekt het 32ste Kroatisch Open toernooi'
 tags: ["toernooi", "kroatië", "wedstrijd"]
 images:
-  - "/blog/32ste-kroatië-open-toernooi-2025/11_group.jpg"
+  - "/blog/32ste-kroatië-open-toernooi-2025/11_group_share.jpg"
 ---
 
 {{< image "01_porec.jpg" "Poreç op vrijdag 6 juni">}}
