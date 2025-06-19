@@ -40,7 +40,7 @@ Please follow these steps to contribute:
 4. Push the changes to your fork.
 5. Open a pull request to the main repository.
 
-📌 Note: Please ensure that images do not exceed a maximum width of 1200 pixels.
+📌 Note: Please ensure that images do not exceed a maximum width of 1200 pixels.\
 📌 Note: For best results, the Open Graph image should use a 16:9 aspect ratio and, for consistency, have "-share" appended to the end of the filename.
 
 ## Questions or Help?
