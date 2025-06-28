@@ -3,8 +3,10 @@ date: '2025-06-27T14:00:00+01:00'
 draft: false
 title: 'Eerst online groepsles: partij-analyse'
 tags: ["groepsles", "analyse", "wedstrijd", "Tang Weixing", "Mi Yuting", "Anna Melnyk"]
+showtoc: false
 images:
-  - "/blog/groepsles-op-afstand/01_anna.png"
+  - "/blog/groepsles-op-afstand/01_anna.png"  
+
 ---
 
 ## 🎉 Onze eerste online groepsles! 🤓
@@ -16,6 +18,8 @@ De opzet was simpel: op de gebruikelijke go-avond samenkomen, en via pc, meeting
 Voor sommigen van ons was het de allereerste online Go les, anderen hadden al eerder online les gevolgd, maar bij een andere leraar. En met onze eigen Bram (2d!) in de club, wisten we op voorhand: dit wordt geen makkelijke groep om tevreden te houden. Maar we gingen ervoor, met veel zin en zonder verwachtingen. Gewoon: "we zien wel".
 
 {{< image "01_anna.png" "Anna Melnyk, 2d.">}}
+
+# test
 
 De lesgeefster? Anna Melnyk (2d) een sympathieke, goedlachse, knappe verschijning uit Oekraïne. Kevin beet de spits af, stelde zich voor, en we deden een snelle tour de table: Kevin, Bram, Ian en ikzelf. En dan: aan de slag.
 
