@@ -5,7 +5,7 @@ title: 'Eerst online groepsles: partij-analyse'
 tags: ["groepsles", "analyse", "wedstrijd", "Tang Weixing", "Mi Yuting", "Anna Melnyk"]
 showtoc: false
 images:
-  - "/blog/groepsles-op-afstand/01_anna.png"  
+  - "/blog/groepsles-op-afstand/02_analyse.png"  
 
 ---
 
@@ -19,9 +19,7 @@ Voor sommigen van ons was het de allereerste online Go les, anderen hadden al ee
 
 {{< image "01_anna.png" "Anna Melnyk, 2d.">}}
 
-# test
-
-De lesgeefster? Anna Melnyk (2d) een sympathieke, goedlachse, knappe verschijning uit Oekraïne. Kevin beet de spits af, stelde zich voor, en we deden een snelle tour de table: Kevin, Bram, Ian en ikzelf. En dan: aan de slag.
+De lesgeefster? Anna Melnyk (2d) een sympathieke, goedlachse verschijning uit Oekraïne. Kevin beet de spits af, stelde zich voor, en we deden een snelle tour de table: Kevin, Bram, Ian en ikzelf. En dan: aan de slag.
 
 De bedoeling was om een partij te analyseren tussen Mi Yuting (9d) en Tang Weixing (9d). Al snel werd duidelijk: dat ging niet lukken op één uurtje. Anna gaf geen saaie uitleg, maar maakte er een interactieve sessie van, en dat werkte super. We doken in variaties, analyseerden keuzes, en voor we het wisten zaten we tot over onze oren in ingewikkelde joseki’s en pittige tsumego’s. Voor de liefhebbers, de partij kun je in SGF file (Smart Game Format) ook [hier](weixing_yuting_2025-06-15.sgf) downloaden
 
