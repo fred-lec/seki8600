@@ -3,11 +3,10 @@ date: '2025-05-19T22:12:25+01:00'
 draft: false
 tags: ["Bredene", "club"]
 showtoc: false
+title: "Seki 8600 organiseert een Go namiddag aan zee!"
 images:
   - "/blog/go-aan-zee-2025/flyer-share.png"
 ---
-
-# Seki 8600 organiseert een Go namiddag aan zee!
 
 ## 🏖️ Go aan Zee – Zaterdag 23 augustus in Bredene
 

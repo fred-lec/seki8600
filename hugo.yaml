@@ -22,10 +22,10 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Seki 8600
-  description: "Go club in Diksmuide"
+  description: "Wij zijn een gezellige Go-club in Diksmuide voor alle niveaus. Speel mee op onze maandelijkse clubdag, leer strategieën en ontmoet medespelers!"
   keywords: [Go, Baduk, Weiqi, club, Diksmuide, denksport, bordspel, go club]
   author: Fred  
-  images: ["https://seki.8600.it/assets/gostones.jpg"]
+  images: ["https://seki.8600.it/assets/seki-stones.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -64,32 +64,26 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Seki 8600
-    subtitle: "Go club in Diksmuide"
-    imageUrl: "gostones.jpg"
+    subtitle: "📍 Go-club in hartje Diksmuide - speeldata via kalender & Discord"
+    imageUrl: "seki-stones.png"
     imageWidth: 350
     imageHeight: 350
-    imageTitle: "Go Club"
+    imageTitle: "Seki 8600 Logo"
     buttons:
-      - name: Over de club
-        url: club   
-      - name: Blog
-        url: blog      
-      - name: Discord
+      - name: "📖 Blog"
+        url: "/blog"
+      - name: "🏠 Over de Club"
+        url: "/club"
+      - name: "💬 Discord"
         url: https://discord.gg/gqpgpFZav3
-      
-
-  # home-info mode
+      - name: "📅 Kalender"
+        url: "/agenda"
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome!
+    Title: "Welkom bij Seki 8600"
+    Content: >
+      Wij zijn een gezellige Go-club in Ieper voor alle niveaus. Speel mee op donderdagavonden, leer strategieën en ontmoet medespelers!
 
   socialIcons:
-    #- name: x
-    #  url: "https://x.com/"    
-    #- name: github
-    #  url: "https://github.com/"
-    #- name: facebook
-    #  url: "https://github.com/"
 
   analytics:
     google:
