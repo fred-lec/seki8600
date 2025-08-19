@@ -46,17 +46,18 @@ We kijken ernaar uit om je te verwelkomen aan het Go-bord in Bredene! 🎉
 
 ## Geregistreerde deelnemers
 
-| Player Name    | EGD Rank  |
-|----------------|-----------|
-| Kevin D.       | 15k       |
-| Frederic L.    | 15k       |
-| Bram V.        | 2d        |
-| Ian V.         | 7k        |
-| Marc P.        | 15k       |
-| Mathias V.     | 18k       |
-| Karel          | Onbekend  |
-| Philippe       | Onbekend  |
+|#| Player Name    | EGD Rank  |
+|-|----------------|-----------|
+|1| Kevin D.       | 15k       |
+|2| Frederic L.    | 15k       |
+|3| Bram V.        | 2d        |
+|4| Ian V.         | 7k        |
+|5| Marc P.        | 15k       |
+|6| Mathias V.     | 18k       |
+|7| Karel          | Onbekend  |
+|8| Layo V.        | 10k       |
+|9| Jean-Denis H.  | 5k        |
 
-**Laatste update:** 29/07/2025
+**Laatste update:** 19/08/2025
 
 {{< image "flyer.png" "Flyer 'Go aan zee' ">}}
