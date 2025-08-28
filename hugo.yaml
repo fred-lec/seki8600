@@ -78,6 +78,8 @@ params:
         url: https://discord.gg/gqpgpFZav3
       - name: "📅 Kalender"
         url: "/agenda"
+      - name: "🤝 Lid worden"
+        url: "/lid-worden"
   homeInfoParams:
     Title: "Welkom bij Seki 8600"
     Content: >
