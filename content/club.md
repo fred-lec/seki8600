@@ -20,6 +20,7 @@ Zie: [agenda]({{< relref "/agenda/" >}})
 - Introductielessen voor nieuwe spelers.
 - Er zijn borden en stenen beschikbaar op de locatie.
 - Momenteel spelen we op een privé locatie, maar als je contact opneemt delen we graag het adres.
+- Ruime gratis parkeergelegenheid op korte wandelafstand van onze locatie.
 
 ## Contact
 📧 **E-mail**: club_diksmuide@gofed.be\
