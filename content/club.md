@@ -21,6 +21,7 @@ Zie: [agenda]({{< relref "/agenda/" >}})
 - Er zijn borden en stenen beschikbaar op de locatie.
 - Momenteel spelen we op een privé locatie, maar als je contact opneemt delen we graag het adres.
 - Ruime gratis parkeergelegenheid op korte wandelafstand van onze locatie.
+- [Lid worden?!]({{< relref "/lid-worden/" >}})
 
 ## Contact
 📧 **E-mail**: club_diksmuide@gofed.be\
