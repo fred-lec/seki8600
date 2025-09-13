@@ -4,6 +4,8 @@ draft: false
 title: 'Go Initatie'
 tags: ["Bollebus", "zomerkamp", "wiskunde", "initiatie"]
 showtoc: false
+images:
+  - "/blog/bollebus-verslag/foto2.png"
 
 ---
 
