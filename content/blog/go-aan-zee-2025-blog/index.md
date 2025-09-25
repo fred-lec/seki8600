@@ -3,10 +3,11 @@ date: '2025-09-24T19:51:10+02:00'
 draft: false
 tags: ["Bredene", "club", "baduk", "blitz", "toernooi"]
 showtoc: true
-title: "🏖️ Go aan Zee 2025: zon, zee en stenen"
+title: '🏖️ Go aan Zee 2025: zon, zee en stenen'
 images:
   - "/blog/go-aan-zee-2025-blog/1-tent.png"
 ---
+
 
 Het is zaterdag 23 augustus en we zijn aangekomen op Camping Veld & Duin. Het is heerlijk warm, de zon schijnt en de Go-sfeer zit er al helemaal in.
 
