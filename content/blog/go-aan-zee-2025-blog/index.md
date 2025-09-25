@@ -89,4 +89,6 @@ Ikzelf had zin in een pasta carbonara, net zoals Ian trouwens. Maar eerlijk? Waa
 
 Dat is natuurlijk voor later...?
 
-Vanuit Seki willen we iedereen oprecht bedanken voor de fijne opkomst en de gezellige sfeer. Voor ons was het een fantastisch en leuk succes!
+Vanuit Seki willen we iedereen oprecht bedanken voor de fijne opkomst en de gezellige sfeer. Voor ons was het een fantastisch en leuk succes! 
+
+PS. Alle foto's van het evenement kun je [hier](https://photos.app.goo.gl/ThgKqWEKy2YAafdJ7) terugvinden.
