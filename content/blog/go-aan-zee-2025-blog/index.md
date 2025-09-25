@@ -6,6 +6,7 @@ showtoc: true
 title: '🏖️ Go aan Zee 2025: zon, zee en stenen'
 images:
   - "/blog/go-aan-zee-2025-blog/1-tent.png"
+author: Kevin Durant
 ---
 
 
