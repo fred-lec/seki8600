@@ -33,7 +33,7 @@ De tafels zijn genummerd, de klokken ingesteld en de borden staan op scherp. Hop
 
 Dat moet lukken... toch? 
 
-{{<image "4-bram.png" "Bram en Jean-Denis met 2 potjes">}}
+{{<image "4-bram.png" "Bram (2d) en Jean-Denis (5k) met 2 potjes">}}
 
 Fout gedacht: de dan-spelers namen rustig hun tijd. Tijdens de partij van Bram (2d) tegen Jean-Denis (5k) hadden we zelfs tijd genoeg om onze eigen matchen af te werken én om nog een koffietje te halen.
 
