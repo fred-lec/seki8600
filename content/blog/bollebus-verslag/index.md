@@ -34,7 +34,7 @@ Later op de avond stonden groepjes gebogen over hun posities alsof ze al jaren G
 
 {{< image "foto6.png" "Fred en Kevin spelen een blitz partijtje!">}}
 
-Het feit dat iedereen zo vlot mee was, bewijst óf dat wij briljante lesgevers zijn... óf (en veel aannemelijker) dat de Bollubus-kampgangers gewoon uitzonderlijk scherp zijn! Hoe dan ook: wat een plezier om Go met zo’n enthousiaste bende te mogen delen.
+Het feit dat iedereen zo vlot mee was, bewijst óf dat wij briljante lesgevers zijn... óf (en veel aannemelijker) dat de Bollebus-kampgangers gewoon uitzonderlijk scherp zijn! Hoe dan ook: wat een plezier om Go met zo’n enthousiaste bende te mogen delen.
 
 {{< image "foto5.png" "En spelen maar!">}}
 
