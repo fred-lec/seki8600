@@ -22,7 +22,7 @@ Zodra we binnenstapten in het Fiertelhof hadden Frederik en ik een kleine paniek
 
 ## De initiatie
 
-{{< image "2.png" "Uitleg aan het demobord">}}
+{{< image "2.png" "Frederik vertelt over de puntentelling">}}
 
 Op hun post stond er: "Leer Go in 15 minuten!" Dat is dus ons target. Vorige keer tijdens onze Bollebus-initiatie hebben we echt veel te lang Go uitgelegd, en een ezel stoot zichzelf niet twee keer aan dezelfde Go-steen.
 
@@ -32,9 +32,9 @@ Al zeg ik het zelf, we hadden een zeer interactieve PowerPoint. De aanwezigen wa
 
 ## Aan de borden
 
-{{< image "3.png" "Deelnemers spelen Go">}}
+{{< image "3.png" "Wit zat even in de penarie">}}
 
-We hadden drie tafels die heel druk bezig waren met partijen spelen. Het begon eerst met capture Go, een simpelere versie van Go. Na een paar partijtjes begonnen ze al snel aan het echte werk. En om eerlijk te zijn, wat pikten ze het snel op zeg! De partijen die gespeeld werden in De Spelosaurus waren noemenswaardig. Wat leuk om te zien!
+We hadden drie tafels die heel druk bezig waren met partijen spelen. Het begon eerst met Capture Go, een simpelere versie van Go. Na een paar partijtjes begonnen ze al snel aan het echte werk. En om eerlijk te zijn, wat pikten ze het snel op zeg! De partijen die gespeeld werden in De Spelosaurus waren noemenswaardig. Wat leuk om te zien!
 
 Er was ook een koppel aanwezig dat op Kerstdag gewoon beslist had: we zoeken eens een ander spel om te spelen. En eigenlijk zijn ze door het kruiswoordraadsel "twee letters, Japans bordspel" tot bij Go gekomen. Toevallig hebben ze de aankondiging van De Spelosaurus gezien en hier waren ze, vijf maanden na kerst, nog steeds aan het bord. Chapeau!
 
@@ -44,3 +44,7 @@ Er was ook een koppel aanwezig dat op Kerstdag gewoon beslist had: we zoeken een
 Dit was de tweede initiatie die we gegeven hebben als club, en we hebben opnieuw veel geleerd. Het is zeker niet evident om Go te spelen, en nog minder om het aan een groep uit te leggen. Maar de manier waarop we het ervaren hebben in De Spelosaurus is iets wat we in de toekomst zeker willen herhalen. 
 
 We willen De Spelosaurus oprecht bedanken om Go onder de aandacht te brengen en ons daarbij te betrekken. We werden met open armen ontvangen, we hadden een tof publiek en er waren drankjes en snoep inbegrepen. Mochten we het in Go-termen willen zeggen: de situatie op het bord was ideaal voor ons!
+
+Onze derde initiatie komt eraan. Op zaterdag 6 juni 2026 geven wij nog een introductie tot Go in de bibliotheek van Middelkerke. Tussen 14.30 en 18.00 uur kun je ons daar terugvinden. Misschien tot dan?
+
+Sayōnara 👋
