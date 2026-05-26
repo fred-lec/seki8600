@@ -74,6 +74,8 @@ params:
         url: "/blog"
       - name: "🏠 Over de Club"
         url: "/club"
+      - name: "🎓 Initiaties"
+        url: "/go-initiaties"
       - name: "💬 Discord"
         url: https://discord.gg/gqpgpFZav3
       - name: "📅 Kalender"
@@ -122,6 +124,10 @@ menu:
       name: Club
       url: /club/
       weight: 10    
+    - identifier: go-initiaties
+      name: Initiaties
+      url: /go-initiaties/
+      weight: 20
     - identifier: blog
       name: Blog
       url: /blog/
