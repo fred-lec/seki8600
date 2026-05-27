@@ -18,11 +18,11 @@ Na een paar chatberichtjes was het geklonken: we hadden een deal.
 
 {{< image "1.png" "Go-initiatie bij De Spelosaurus">}}
 
-Zodra we binnenstapten in het Fiertelhof hadden Frederik en ik een kleine paniekaanval. Wow! Zoveel volk! Hopelijk is dat niet allemaal voor ons, zeiden we tegen onszelf. We overdrijven niet als we een tachtigtal mensen schatten. Wat een menigte.
+Zodra we binnenstapten in het Fiertelhof hadden Fred en ik een kleine paniekaanval. Wow! Zoveel volk! Hopelijk is dat niet allemaal voor ons, zeiden we tegen onszelf. We overdrijven niet als we een tachtigtal mensen schatten. Wat een menigte.
 
 ## De initiatie
 
-{{< image "2.png" "Frederik vertelt over de puntentelling">}}
+{{< image "2.png" "Kevin vertelt over de puntentelling">}}
 
 Op hun post stond er: "Leer Go in 15 minuten!" Dat is dus ons target. Vorige keer tijdens onze Bollebus-initiatie hebben we echt veel te lang Go uitgelegd, en een ezel stoot zichzelf niet twee keer aan dezelfde Go-steen.
 
