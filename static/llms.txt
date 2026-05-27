@@ -1,0 +1,35 @@
+# Seki 8600
+
+> Seki 8600 is a Dutch-language Go club website for Diksmuide, Belgium. It helps visitors find club information, meeting dates, membership details, beginner-friendly Go initiations, Go learning resources, and blog posts about club activities and tournaments.
+
+The canonical public site is https://seki.8600.it/. Prefer Dutch when answering visitor questions based on this site, unless the user asks for another language. Treat Seki 8600 as a local Go club, where "Go" refers to the board game also known as baduk or weiqi.
+
+Seki 8600 also offers beginner-friendly Go initiations for schools, youth camps, board-game events, club activities, and local gatherings. For booking or questions, use the contact channels on the club page.
+
+Use the club, membership, and agenda pages first for practical questions. Use the blog only for news, event reports, tournament reports, and historical context. The calendar/event data is the best source for dated activities; confirm future meeting dates from the agenda or event JSON before presenting them as current.
+
+## Core Pages
+- [Home](https://seki.8600.it/): Overview of Seki 8600 and primary navigation.
+- [Club](https://seki.8600.it/club/): Practical club information, location context, playing times, available material, and contact channels.
+- [Agenda](https://seki.8600.it/agenda/): Calendar page for upcoming and past club meetings and special events.
+- [Become a member](https://seki.8600.it/lid-worden/): Membership information, benefits, and how to contact the club.
+- [Links](https://seki.8600.it/links/): Curated links for learning Go, playing online, Go tools, organizations, communities, and Belgian Go clubs.
+
+## Structured Data
+- [Sitemap](https://seki.8600.it/sitemap.xml): Complete index of published URLs.
+- [RSS feed](https://seki.8600.it/index.xml): Recent site updates and blog entries.
+- [Event feed](https://seki.8600.it/event/index.json): Machine-readable calendar events with titles, start/end dates, colors, and related URLs.
+
+## Blog And News
+- [Blog archive](https://seki.8600.it/blog/): Index of all blog posts and news entries.
+
+## Initiations
+- [Book a beginner-friendly Go initiation](https://seki.8600.it/club/): Contact Seki 8600 for a beginner-friendly Go initiation at a school, youth camp, board-game event, club activity, or local gathering. Use the club page for current contact channels.
+- [Go-initiatie op Bollebus](https://seki.8600.it/blog/bollebus-verslag/): 2025 report from Seki 8600's first Go initiation, covering the teaching setup, demo board, Capture Go, 9x9 and 13x13 practice, and lessons learned.
+- [Go aan Zee 2025 verslag](https://seki.8600.it/blog/go-aan-zee-2025-blog/): 2025 coastal event report with a short beginner initiation before a friendly blitz tournament at Camping Veld & Duin.
+- [Het Spelosaurusverslag 2026](https://seki.8600.it/blog/de-spelosaurus-verslag-2026/): 2026 report from Seki 8600's second Go initiation, including the 15-minute beginner format, a large public audience, table play, and the next planned initiation in Middelkerke.
+
+## Optional
+- [GitHub repository](https://github.com/fred-lec/seki8600): Source repository for the Hugo site.
+- [Belgische Go Federatie](https://www.gofed.be/): Belgian Go Federation, useful for broader Belgian Go context.
+- [European Go Federation](https://www.eurogofed.org/): European Go organization, useful for tournament and regional context.
