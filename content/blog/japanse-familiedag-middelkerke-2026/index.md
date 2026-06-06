@@ -2,14 +2,15 @@
 date: '2026-06-06T19:00:00+02:00'
 draft: false
 title: 'Japanse familiedag in Middelkerke'
-tags: ["Middelkerke", "bibliotheek", "go", "shogi", "Oshi", "initiatie"]
+tags: ["go", "shogi", "Oshi", "initiatie"]
 showtoc: true
 author: Kevin Durant
 images:
   - "/blog/japanse-familiedag-middelkerke-2026/1.png"
+  - "/blog/japanse-familiedag-middelkerke-2026/2.png"
 ---
 
-Net zoals ik af en toe scroll op Facebook, scrolled Fred af en toe in zijn lokale evenementen kalender. Daar zag hij toevallig een Japanse familidag advertentie niet ver van huis. Als een echte businessman zag hij natuurlijk opportuniteit en hebben we contact gelegd met Elke en Patti. Na een heel korte sollicitatie ronde was het duidelijk, we waren een fit voor hun programma.
+Net zoals ik af en toe op Facebook scroll, scrolt Fred af en toe door zijn lokale evenementenkalender. Daar zag hij toevallig een advertentie voor een Japanse familiedag, niet ver van huis. Als een echte businessman zag hij natuurlijk meteen een opportuniteit en legden we contact met Elke en Patti. Na een heel korte sollicitatieronde was het duidelijk, we waren een fit voor hun programma.
 
 Dus, bij deze, waren wij op zaterdag 6 juni 2026 te gast op de Japanse familiedag in de Openbare Bibliotheek van Middelkerke. 
 
@@ -19,11 +20,13 @@ Dus, bij deze, waren wij op zaterdag 6 juni 2026 te gast op de Japanse familieda
 
 Dat bleek een heel gezellige opstelling. Een paar koppels kwamen de basisregels van Go leren en speelden daarna meteen een paar partijtjes Capture Go. Zo'n eerste overwinning met een enkele vangst blijft gewoon een leuke manier om de vonk snel te laten overslaan.
 
-Aan de tafel ernaast gaf Fred intussen korte introducties tot Shogi. Dat werkte goed, geen lange uitleg en net genoeg om mensen nieuwsgierig te maken naar hoe anders Chinees schaken is tegenover westers schaken.
+Aan de tafel ernaast gaf Fred intussen korte introducties tot Shogi. Dat werkte goed, geen lange uitleg, en net genoeg om mensen nieuwsgierig te maken naar hoe anders Japans schaken is tegenover westers schaken.
 
 ## Oshi ontdekt
 
-Tussendoor leerden we ook zelf een nieuw spel kennen genaamd Oshi, een spel rond invloed en positie dat perfect in het thema van de dag paste. Dat was meteen raak. De kans is groot dat Fred dit spel binnenkort ergens opduikelt en koopt, want als hij iets in zijn hoofd heeft, gaat hij er ook achteraan. Onze demobord-avonturen, Go-bord veilingen, tallenloze Joseki-boeken, Go-bord draagtas, Go-bord onderleggers, ... hebben dat intussen al meer dan genoeg bewezen.
+Tussendoor leerden we ook zelf een nieuw spel kennen genaamd Oshi, een spel rond invloed en positie dat perfect in het thema van de dag paste. Dat was meteen raak. De kans is groot dat Fred dit spel binnenkort ergens opduikelt en koopt, want als hij iets in zijn hoofd heeft, gaat hij er ook achteraan. Onze demobord-avonturen, Go-bordveilingen, talloze joseki-boeken, een Go-borddraagtas, Go-bordonderleggers ... die in de club liggen hebben dat intussen al meer dan genoeg bewezen.
+
+{{< image "2.png" "Fred speelt Oshi">}}
 
 ## Een trage, fijne bibliotheekdag
 
