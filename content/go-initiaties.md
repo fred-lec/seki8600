@@ -28,6 +28,7 @@ Een drankje voor de begeleiders tijdens de initiatie wordt altijd gewaardeerd.
 Benieuwd hoe zo'n initiatie eruitziet? Lees onze verslagen van eerdere activiteiten:
 
 - [Go-initiatie bij De Spelosaurus]({{< relref "/blog/de-spelosaurus-verslag-2026/" >}})
+- [Japanse familiedag in Middelkerke]({{< relref "/blog/japanse-familiedag-middelkerke-2026/" >}})
 - [Go-initiatie op Bollebus]({{< relref "/blog/bollebus-verslag/" >}})
 - [Go aan Zee 2025]({{< relref "/blog/go-aan-zee-2025-blog/" >}})
 
