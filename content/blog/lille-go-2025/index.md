@@ -3,6 +3,7 @@ date: '2025-03-22T20:00:00+01:00'
 draft: false
 author: Kevin Durant
 title: 'Seki 8600 bezoekt het Lille Go Tournament 2025'
+description: 'Kevin van Seki 8600 trok naar het Lille Go Tournament 2025 in Rijsel en blikt terug op de partijen, sfeer en lessen van het weekend.'
 tags: ["toernooi", "lille", "wedstrijd"]
 ---
 

@@ -1,7 +1,8 @@
 ---
 date: '2025-05-10T13:57:26+01:00'
 draft: false
-title: 'Seki 8600 present op zomerkamp Bollebus'
+title: 'Go-initiatie op zomerkamp Bollebus 2025 in Watou'
+description: 'Aankondiging van de Go-initiatie van Seki 8600 op zomerkamp Bollebus 2025 in Watou, voor jongeren met interesse in abstracte spellen.'
 tags: ["Bollebus", "zomerkamp", "wiskunde"]
 showtoc: false
 

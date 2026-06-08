@@ -1,5 +1,5 @@
 baseURL: "https://seki.8600.it/"
-title: Seki 8600
+title: "Seki 8600 - Go-club in Diksmuide"
 pagerSize: 5
 theme: PaperMod
 defaultContentLanguage: nl
@@ -21,11 +21,11 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Seki 8600
+  title: "Seki 8600"
   description: "Wij zijn een gezellige Go-club in Diksmuide voor alle niveaus. Speel mee op onze maandelijkse clubdag, leer strategieën en ontmoet medespelers!"
   keywords: [Go, Baduk, Weiqi, club, Diksmuide, denksport, bordspel, go club]
   author: Fred  
-  images: ["https://seki.8600.it/assets/seki-stones.jpg"]
+  images: ["https://seki.8600.it/assets/seki-stones.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false

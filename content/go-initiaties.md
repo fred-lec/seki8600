@@ -1,7 +1,8 @@
 ---
 date: '2026-05-26T20:00:00+02:00'
 draft: false
-title: 'Go-initiaties op aanvraag'
+title: 'Go-initiatie op aanvraag voor scholen en evenementen'
+description: 'Seki 8600 geeft laagdrempelige Go-initiaties op aanvraag voor scholen, verenigingen, bibliotheken, bedrijven en evenementen.'
 ShowWordCount: false
 ShowToc: false
 ---

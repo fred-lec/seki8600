@@ -1,7 +1,8 @@
 ---
 date: '2025-02-17T16:50:31+01:00'
 draft: false
-title: 'Club'
+title: 'Go-club in Diksmuide: praktische info en contact'
+description: 'Praktische info over Seki 8600, de Go-club in Diksmuide: speelmomenten, locatie, contact en hoe je kunt aansluiten.'
 ShowWordCount: false
 ---
 # Praktische informatie

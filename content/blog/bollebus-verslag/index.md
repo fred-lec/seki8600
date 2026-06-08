@@ -1,7 +1,8 @@
 ---
 date: '2025-09-13T09:33:24+01:00'
 draft: false
-title: 'Go Initatie'
+title: 'Verslag van de Go-initiatie op Bollebus in Watou'
+description: 'Verslag van onze Go-initiatie op zomerkamp Bollebus in Watou, met demobord, speluitleg en de eerste partijen van de deelnemers.'
 tags: ["Bollebus", "zomerkamp", "wiskunde", "initiatie"]
 showtoc: false
 images:

@@ -1,7 +1,8 @@
 ---
 date: '2025-02-27T20:51:25+01:00'
 draft: false
-title: 'Go Partij Noteren'
+title: 'Hoe noteer je een Go-partij? Kifu, apps en tips'
+description: 'Uitleg over manieren om een Go-partij te noteren, van papieren kifu en coordinaten tot apps, digitale borden en fotoanalyse.'
 tags: ["notatie", "kifu", "analyse"]
 ---
 

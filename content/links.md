@@ -1,7 +1,8 @@
 ---
 date: '2025-02-17T16:28:21+01:00'
 draft: false
-title: 'Links'
+title: 'Go-links en hulpmiddelen voor spelers'
+description: 'Een selectie nuttige Go-links voor beginners en spelers: leren spelen, online Go, analysehulpmiddelen, federaties en Belgische clubs.'
 ShowWordCount: false
 ---
 

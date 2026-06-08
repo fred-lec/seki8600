@@ -3,7 +3,8 @@ date: '2025-05-19T22:12:25+01:00'
 draft: false
 tags: ["Bredene", "club"]
 showtoc: false
-title: "Seki 8600 organiseert een Go namiddag aan zee!"
+title: "Go aan Zee 2025 in Bredene: initiatie en blitztoernooi"
+description: "Praktische info voor Go aan Zee 2025 in Bredene: een gratis Go-initiatie, vrij spelen en een vriendschappelijk blitztoernooi."
 images:
   - "/blog/go-aan-zee-2025/flyer-share.png"
 ---
