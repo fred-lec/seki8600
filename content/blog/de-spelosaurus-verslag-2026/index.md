@@ -1,6 +1,7 @@
 ---
 date: '2026-05-16T00:00:00+02:00'
-title: 'Het Spelosaurusverslag 2026'
+title: 'Go-initiatie bij De Spelosaurus in Ronse'
+description: 'Verslag van een Go-initiatie bij De Spelosaurus in Ronse, waar bezoekers de basisregels leerden en meteen Capture Go speelden.'
 tags: ["De Spelosaurus", "go", "initiatie"]
 showtoc: true
 author: Kevin Durant

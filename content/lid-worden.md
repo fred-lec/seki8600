@@ -1,7 +1,8 @@
 ---
 date: '2025-08-28T19:00:12+02:00'
 draft: false
-title: '🤝 Word lid van Seki 8600'
+title: 'Lid worden bij Seki 8600, Go-club in Diksmuide'
+description: 'Word gratis lid van Seki 8600 en speel mee met een gezellige Go-club in Diksmuide, ook als je de regels nog niet kent.'
 ShowWordCount: false
 ShowToc: false
 ---

@@ -1,7 +1,8 @@
 ---
 date: '2025-06-27T14:00:00+01:00'
 draft: false
-title: 'Eerst online groepsles: partij-analyse'
+title: 'Online Go-les: Mi Yuting tegen Tang Weixing'
+description: 'Verslag van een online Go-groepsles waarin Seki 8600 een professionele partij van Mi Yuting tegen Tang Weixing analyseerde.'
 tags: ["groepsles", "analyse", "wedstrijd", "Tang Weixing", "Mi Yuting", "Anna Melnyk"]
 showtoc: false
 images:

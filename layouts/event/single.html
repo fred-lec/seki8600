@@ -1,16 +1,43 @@
+{{- define "main" }}
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>{{ .Title}}</title>
-</head>
-<body>
-    <p>Event detailBLALBA:</p>
-    <h2>{{ .Title }}</h2>
-    <p>Start: {{ dateFormat "2006-01-02" .Date }}</p>
-    <pre>url: {{ .Permalink | absURL }}</pre>
-</body>
-</html>
+<article class="post-single">
+    <header class="post-header">
+        {{ partial "breadcrumbs.html" . }}
+        <h1 class="post-title entry-hint-parent">{{ .Title }}</h1>
+        {{- with .Description }}
+        <div class="post-description">{{ . }}</div>
+        {{- end }}
+    </header>
+
+    <div class="post-content">
+        <h2>Praktisch</h2>
+        <ul>
+            {{- with .Params.eventdatestart }}
+            <li><strong>Start:</strong> {{ time.AsTime . | time.Format "Monday 2 January 2006 om 15:04" }}</li>
+            {{- end }}
+            {{- with .Params.eventdateend }}
+            <li><strong>Einde:</strong> {{ time.AsTime . | time.Format "Monday 2 January 2006 om 15:04" }}</li>
+            {{- end }}
+            {{- if eq .Params.more_info "/club/" }}
+            <li><strong>Locatie:</strong> centrum Diksmuide. Neem contact op voor het exacte adres.</li>
+            {{- end }}
+        </ul>
+
+        {{- if eq .Params.more_info "/club/" }}
+        <p>Deze clubavond is een bijeenkomst van Seki 8600 voor Go-spelers in Diksmuide. Beginners, nieuwsgierige bezoekers en ervaren spelers zijn welkom.</p>
+        <p>We spelen partijen, leggen de regels uit waar nodig en maken tijd om stellingen of strategie te bespreken.</p>
+        {{- else }}
+        <p>{{ .Title }} is een activiteit van Seki 8600. Bekijk de gekoppelde pagina voor praktische informatie, inschrijving en updates.</p>
+        {{- end }}
+
+        {{- with .Params.more_info }}
+        <p><a href="{{ . }}">Meer praktische info</a></p>
+        {{- end }}
+
+        {{- with .Content }}
+        {{ . }}
+        {{- end }}
+    </div>
+</article>
+
+{{- end }}

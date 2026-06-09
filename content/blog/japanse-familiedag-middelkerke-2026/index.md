@@ -1,7 +1,8 @@
 ---
 date: '2026-06-06T19:00:00+02:00'
 draft: false
-title: 'Japanse familiedag in Middelkerke'
+title: 'Go-initiatie op Japanse familiedag in Middelkerke'
+description: 'Verslag van de Go- en Shogi-initiatie van Seki 8600 tijdens de Japanse familiedag in de bibliotheek van Middelkerke.'
 tags: ["go", "shogi", "Oshi", "initiatie"]
 showtoc: true
 author: Kevin Durant

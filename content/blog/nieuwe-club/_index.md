@@ -1,7 +1,8 @@
 ---
 date: '2025-02-17T16:53:25+01:00'
 draft: false
-title: 'Nieuwe Go club in Diksmuide'
+title: 'Nieuwe Go-club in Diksmuide: Seki 8600'
+description: 'Seki 8600 brengt een nieuwe Go-club naar Diksmuide en de Westhoek, met maandelijkse bijeenkomsten voor beginners en spelers.'
 tags: ["Diksmuide", "club"]
 categories: ["persbericht"]
 showtoc: false

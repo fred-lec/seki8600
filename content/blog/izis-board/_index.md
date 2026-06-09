@@ -1,7 +1,8 @@
 ---
 date: '2025-03-17T20:49:26+01:00'
 draft: false
-title: 'Izis Board'
+title: 'Groepsaankoop van het Izis Digital Go Board'
+description: 'Interessepeiling voor een groepsaankoop van het Izis Digital Go Board, een digitaal Go-bord voor partijregistratie en analyse.'
 tags: ["bord", "materiaal", "groepsaankoop"]
 showtoc: false
 aliases:

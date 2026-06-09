@@ -3,6 +3,7 @@ date: '2025-05-04T20:00:00+02:00'
 draft: false
 author: Kevin Durant
 title: 'Seki 8600 op het 35ste Leuvens Go Tournament'
+description: 'Kevin van Seki 8600 speelde mee op het 35ste Leuvens Go Tournament en blikt terug op de partijen, sfeer en lessen uit Leuven.'
 tags: ["toernooi", "leuven", "wedstrijd"]
 ---
 

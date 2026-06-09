@@ -3,7 +3,8 @@ date: '2025-09-24T19:51:10+02:00'
 draft: false
 tags: ["Bredene", "club", "baduk", "blitz", "toernooi"]
 showtoc: true
-title: '🏖️ Go aan Zee 2025: zon, zee en stenen'
+title: 'Verslag van Go aan Zee 2025 in Bredene'
+description: 'Verslag van Go aan Zee 2025 in Bredene, met initiatie, blitztoernooi, deelnemers en sfeerbeelden van een Go-dag aan de kust.'
 images:
   - "/blog/go-aan-zee-2025-blog/1-tent.png"
 author: Kevin Durant
